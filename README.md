@@ -1,3 +1,3 @@
 # DEP-Assistant
 
-Hier entsteht die Dokumentation für die Assistenten-App für psychosomatische Patienten.
+Hier entsteht die Dokumentation für die Assistenten-App für Menschen mit psychosomatischen Erkrankungen.
